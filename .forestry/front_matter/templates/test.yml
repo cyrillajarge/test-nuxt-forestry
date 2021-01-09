@@ -7,3 +7,12 @@ fields:
   config:
     required: false
   label: title
+- name: content-block
+  type: blocks
+  template_types:
+  - image-block
+  - text-block
+  config:
+    min: 
+    max: 
+  label: Content-Block
