@@ -16,3 +16,5 @@ fields:
     min: 
     max: 
   label: Content-Block
+pages:
+- content/test/test-post-1.md
